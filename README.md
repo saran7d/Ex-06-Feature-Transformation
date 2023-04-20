@@ -97,35 +97,67 @@ plt.show()
 
 # Dataset:
 
+![](https://github.com/saran7d/Ex-06-Feature-Transformation/blob/main/A.png)
+
 # Head:
+
+![](https://github.com/saran7d/Ex-06-Feature-Transformation/blob/main/B.png)
 
 # Null data:
 
+![](https://github.com/saran7d/Ex-06-Feature-Transformation/blob/main/C.png)
+
 # Information:
+
+![](https://github.com/saran7d/Ex-06-Feature-Transformation/blob/main/D.png)
 
 # Description:
 
+![](https://github.com/saran7d/Ex-06-Feature-Transformation/blob/main/E.png)
+
 # Highly Positive Skew:
+
+![](https://github.com/saran7d/Ex-06-Feature-Transformation/blob/main/F.png)
 
 # Highly Negative Skew:
 
+![](https://github.com/saran7d/Ex-06-Feature-Transformation/blob/main/G.png)
+
 # Moderate Positive Skew:
+
+![](https://github.com/saran7d/Ex-06-Feature-Transformation/blob/main/H.png)
 
 # Moderate Negative Skew:
 
+![](https://github.com/saran7d/Ex-06-Feature-Transformation/blob/main/I.png)
+
 # Log of Highly Positive Skew:
+
+![](https://github.com/saran7d/Ex-06-Feature-Transformation/blob/main/J.png)
 
 # Log of Moderate Positive Skew:
 
+![](https://github.com/saran7d/Ex-06-Feature-Transformation/blob/main/K.png)
+
 # Reciprocal of Highly Positive Skew:
+
+![](https://github.com/saran7d/Ex-06-Feature-Transformation/blob/main/L.png)
 
 # Square root tranformation:
 
+![](https://github.com/saran7d/Ex-06-Feature-Transformation/blob/main/M.png)
+
 # Power transformation of Moderate Positive Skew:
+
+![](https://github.com/saran7d/Ex-06-Feature-Transformation/blob/main/N.png)
 
 # Power transformation of Moderate Negative Skew:
 
+![](https://github.com/saran7d/Ex-06-Feature-Transformation/blob/main/O.png)
+
 # Quantile transformation:
+
+![](https://github.com/saran7d/Ex-06-Feature-Transformation/blob/main/P.png)
 
 # Result
 

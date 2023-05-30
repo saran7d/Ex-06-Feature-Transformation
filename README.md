@@ -1,5 +1,10 @@
 # Ex-06-Feature-Transformation
 
+DATE:
+
+GITHUB LINK: 
+
+COLAB LINK: https://colab.research.google.com/drive/1tReShgYYCUREBJTE8TJbLLu_p6HKVPv6?usp=sharing
 # AIM
 To read the given data and perform Feature Transformation process and save the data to a file.
 

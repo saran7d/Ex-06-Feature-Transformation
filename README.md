@@ -2,7 +2,7 @@
 
 DATE:
 
-GITHUB LINK: 
+GITHUB LINK: https://github.com/saran7d/Ex-06-Feature-Transformation.git
 
 COLAB LINK: https://colab.research.google.com/drive/1tReShgYYCUREBJTE8TJbLLu_p6HKVPv6?usp=sharing
 # AIM
